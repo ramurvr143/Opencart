@@ -1,0 +1,26 @@
+09:30:09.412 [main] INFO  testCases.TC001_regestration - ***** Open Home Page *****
+09:30:10.958 [main] INFO  testCases.TC001_regestration - ***** Open Accountreg Page *****
+09:30:24.985 [main] INFO  testCases.TC001_regestration - Your Account Has Been Created!
+09:30:24.985 [main] INFO  testCases.TC001_regestration - *** testcase 1 completed ***
+09:55:52.688 [main] INFO  testCases.TC001_regestration - ***** Open Home Page *****
+09:55:54.276 [main] INFO  testCases.TC001_regestration - ***** Open Accountreg Page *****
+09:56:01.404 [main] INFO  testCases.TC001_regestration - Your Account Has Been Created!
+09:56:01.405 [main] INFO  testCases.TC001_regestration - *** testcase 1 completed ***
+10:03:47.144 [main] INFO  testCases.TC001_regestration - ***** Open Home Page *****
+10:03:48.777 [main] INFO  testCases.TC001_regestration - ***** Open Accountreg Page *****
+10:03:57.758 [main] INFO  testCases.TC001_regestration - Your Account Has Been Created!
+10:03:57.759 [main] INFO  testCases.TC001_regestration - *** testcase 1 completed ***
+08:54:27.865 [main] INFO  testCases.TC001_regestration - ***** Open Home Page *****
+08:54:29.172 [main] INFO  testCases.TC001_regestration - ***** Open Accountreg Page *****
+08:55:03.161 [main] INFO  testCases.TC001_regestration - ***** Open Home Page *****
+08:55:04.502 [main] INFO  testCases.TC001_regestration - ***** Open Accountreg Page *****
+08:55:12.362 [main] INFO  testCases.TC001_regestration - Your Account Has Been Created!
+08:55:12.363 [main] INFO  testCases.TC001_regestration - *** testcase 1 completed ***
+22:31:16.240 [main] INFO  testCases.TC002_loginpage - Started test
+22:31:16.241 [main] INFO  testCases.TC002_loginpage - Test started
+22:31:17.894 [main] INFO  testCases.TC002_loginpage - ended test
+17:31:14.174 [main] INFO  testCases.TC002_loginpage - Started test
+17:31:14.176 [main] INFO  testCases.TC002_loginpage - Test started
+21:07:12.573 [main] INFO  testCases.TC002_loginpage - Started test
+21:07:12.575 [main] INFO  testCases.TC002_loginpage - Test started
+21:07:14.017 [main] INFO  testCases.TC002_loginpage - ended test
