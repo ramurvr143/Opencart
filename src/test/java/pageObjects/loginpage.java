@@ -29,4 +29,7 @@ public class loginpage extends BasePage
 	public void clicklogin() {
 		loginbtun.click();
 	}
+	public void clicklogn() {
+		loginbtun.click();
+	}
 }
